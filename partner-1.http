@@ -7,7 +7,7 @@ Content-Type: application/json
 
 {
     "name": "New Event",
-    "description": "This is a new event",
+    "description": "Evento com spots",
     "date": "2017-01-01T00:00:00",
     "price": 100
 }
